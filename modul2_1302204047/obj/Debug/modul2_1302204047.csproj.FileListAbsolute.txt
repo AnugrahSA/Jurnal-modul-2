@@ -1,0 +1,11 @@
+C:\Users\anugr\source\repos\modul2_1302204047\modul2_1302204047\obj\Debug\modul2_1302204047.csproj.AssemblyReference.cache
+C:\Users\anugr\source\repos\modul2_1302204047\modul2_1302204047\obj\Debug\modul2_1302204047.csproj.SuggestedBindingRedirects.cache
+C:\Users\anugr\source\repos\modul2_1302204047\modul2_1302204047\obj\Debug\modul2_1302204047.Form1.resources
+C:\Users\anugr\source\repos\modul2_1302204047\modul2_1302204047\obj\Debug\modul2_1302204047.Properties.Resources.resources
+C:\Users\anugr\source\repos\modul2_1302204047\modul2_1302204047\obj\Debug\modul2_1302204047.csproj.GenerateResource.cache
+C:\Users\anugr\source\repos\modul2_1302204047\modul2_1302204047\obj\Debug\modul2_1302204047.csproj.CoreCompileInputs.cache
+C:\Users\anugr\source\repos\modul2_1302204047\modul2_1302204047\bin\Debug\modul2_1302204047.exe.config
+C:\Users\anugr\source\repos\modul2_1302204047\modul2_1302204047\bin\Debug\modul2_1302204047.exe
+C:\Users\anugr\source\repos\modul2_1302204047\modul2_1302204047\bin\Debug\modul2_1302204047.pdb
+C:\Users\anugr\source\repos\modul2_1302204047\modul2_1302204047\obj\Debug\modul2_1302204047.exe
+C:\Users\anugr\source\repos\modul2_1302204047\modul2_1302204047\obj\Debug\modul2_1302204047.pdb
